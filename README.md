@@ -9,5 +9,6 @@ articles and I use them in this project.
 * I gathered a lot of data from the internet for this project and made a dataset for 10 types of vehicles.
 Anyone can download this dataset and use it.
 
+* I hope this repository be beneficial for you.
 
-I hope this repository be beneficial for you.
+Let's start this amazing journey.

@@ -12,3 +12,5 @@ Anyone can download this dataset and use it.
 * I hope this repository be beneficial for you.
 
 Let's start this amazing journey.
+==============================================================================================================
+Part 1 : How to prepare a dataset?
